@@ -1,0 +1,18 @@
+{
+  "name": "evernode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "evernode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "evernote": "^2.0.5"
+  },
+  "bin": {
+    "evernode": "evernode.js"
+  },
+  "preferGlobal": true
+}
